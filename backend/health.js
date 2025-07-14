@@ -6,7 +6,7 @@ const dotenv = require('dotenv');
 dotenv.config();
 
 router.get('/health', async (req, res) => {
-    const HuggingFaceToken = "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";
+    const HuggingFaceToken = "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";//hugging face token
     let huggingFaceStatus = 'unknown';
 
     if (HuggingFaceToken) {
