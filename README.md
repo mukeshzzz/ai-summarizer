@@ -2,11 +2,11 @@
 **AI-powered summarization for smarter studying!**  
 
 ## 🚀 Features  
-- 🔹 **AI-Powered Summaries** – Get concise summaries from PDFs, DOCX, and text files.  
-- 🔹 **Custom Lengths** – Choose **Short, Medium, or Detailed** summaries.  
-- 🔹 **File Upload Support** – Upload **PDF, DOCX, or TXT** for quick processing.  
-- 🔹 **Q&A Mode** – Ask questions based on uploaded content.  
-- 🔹 **Fast & Lightweight** – Works efficiently without bloat.  
+-  **AI-Powered Summaries** – Get concise summaries from PDFs, DOCX, and text files.  
+-  **Custom Lengths** – Choose **Short, Medium, or Detailed** summaries.  
+-  **File Upload Support** – Upload **PDF, DOCX, or TXT** for quick processing.  
+-  **Q&A Mode** – Ask questions based on uploaded content.  
+-  **Fast & Lightweight** – Works efficiently without bloat.  
 
 ## 🔧 How to Use  
 1️⃣ Upload a **PDF, DOCX, or TXT** file.  
