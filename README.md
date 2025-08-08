@@ -1,7 +1,7 @@
 # 📚 Study Mate  
 **AI-powered summarization for smarter studying!**  
 
-## 🚀 Features  
+## 🚀 Features 
 -  **AI-Powered Summaries** – Get concise summaries from PDFs, DOCX, and text files.  
 -  **Custom Lengths** – Choose **Short, Medium, or Detailed** summaries.  
 -  **File Upload Support** – Upload **PDF, DOCX, or TXT** for quick processing.  
